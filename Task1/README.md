@@ -20,4 +20,3 @@ It includes:
 4. You will see:
    - Loss curve plot
    - Predicted vs True scatter plot
-
